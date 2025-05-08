@@ -1,0 +1,7 @@
+new entry "PASSIVE_CritGivesSoulFragments"
+type "PassiveData"
+data "DisplayName" "h32e46446g9b13g4c80g9418gb0a4f788269e;1"
+data "Description" "he9270153g658cg4a56gba18ga151cc3b956e;1"
+data "Icon" "Passive_BattleFocus"
+data "Boosts" "IF(OnAttackCrit, RestoreResource(DH_SoulFragments,1));"
+data "PassivesGroup" "ClassFeatures"

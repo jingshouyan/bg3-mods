@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="1" minor="0" revision="0" build="0"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="IsMulticlass" type="bool" value="true"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="149b4438-462d-4f60-8b97-a0b27af5875c"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(DH_SoulFragments,10,0);ActionResource(DH_Fury,10,0)"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="8c9814c4-9638-478b-8796-d246fda7e9b9"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="c5f28958-eed4-4552-8400-3db96ea081f2"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="ff7580af-cd0a-46d8-8d52-0437f54575c8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="bea64a07-4f44-42a0-b27e-4516a262e208"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="cbe2aafa-12bf-4c4e-baa1-aa4c201e507f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="d7d312a3-3106-4988-b07a-b6f6e052ec54"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="418109cf-2b28-43ab-84ea-52e29bf09628"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="dba7bb8b-d309-45c7-b07b-9867543cd39d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="e51e314e-3d30-4a99-8d77-39f4ae8dabc5"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="431641c6-adea-411f-881d-b94aa11da5e3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="a1a0c5eb-0f9c-40d6-a2af-5d71f61c30d2"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="4f383624-7d77-4bf1-a5f4-29ac24721547"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="5bdbfb03-ad13-4201-b84a-0c8d1fcd91b8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="f1e854af-4f09-409c-a5f9-299dfaca9e0c"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="b459e16a-7ebb-4a9c-85a5-1049f199d9b3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="bd0c60c2-280f-43a8-a37d-a022fe170f94"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="ebaadad4-d6ff-40df-be5f-8e820366e1a9"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="e6aec5c1-d47f-46ec-b052-170e69574c50"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="DemonHunter"/>
+                    <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
+                    <attribute id="UUID" type="guid" value="e6b9b135-efed-474c-a3b7-df8065ef23b6"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

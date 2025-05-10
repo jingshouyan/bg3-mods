@@ -14,7 +14,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(DH_SoulFragments,10,0);ActionResource(DH_Fury,20,0),ActionResource(BonusActionPoint,2,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(DH_SoulFragments,20,0);ActionResource(DH_Fury,20,0),ActionResource(BonusActionPoint,3,0)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="DemonHunter"/>
                     <attribute id="TableUUID" type="guid" value="e970fef6-a795-42a2-8322-48fe33293026"/>
